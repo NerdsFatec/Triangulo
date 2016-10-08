@@ -40,4 +40,4 @@ public class Triangle {
 
 }
 
-/*Identação do código*/
+/*Identeação do código*/
